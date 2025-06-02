@@ -1,3 +1,4 @@
+12345678910111213
 Crimson
 Orange
 Blue
@@ -8,6 +9,3 @@ Khaki
 Coral
 Silver
 Fuchsia
-Purple
-Red
-Brown
